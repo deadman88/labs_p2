@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="xstream-1.4.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../ScrinCasts/xstream-1.4.10-java7.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../ScrinCasts" />
+      <root url="jar://$PROJECT_DIR$/../../../../ScrinCasts/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../ScrinCasts/xmlpull-1.1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../ScrinCasts" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../ScrinCasts" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../ScrinCasts" recursive="false" type="SOURCES" />
+  </library>
+</component>

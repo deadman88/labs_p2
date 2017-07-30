@@ -1,0 +1,13 @@
+<com.brainacad.oop.lab1.Employee>
+  <name>Pavlo</name>
+  <address>Budnogo</address>
+  <number>5</number>
+</com.brainacad.oop.lab1.Employee><com.brainacad.oop.lab1.Employee>
+  <name>Mykola</name>
+  <address>Ruska</address>
+  <number>5</number>
+</com.brainacad.oop.lab1.Employee><com.brainacad.oop.lab1.Employee>
+  <name>Orest</name>
+  <address>Karpenka</address>
+  <number>7</number>
+</com.brainacad.oop.lab1.Employee>
